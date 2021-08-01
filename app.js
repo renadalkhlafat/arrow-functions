@@ -220,5 +220,7 @@ console.log(joe.scopeArrow());
 // 2. What is "this" when joe.scopeArrow() is invoked?
 //  the window object ,I mean the whole page
 
-// 3. Explain why "this" is different when an arrow function is used.  in the function declaration 'this' associated with different values depending on the context in which the function is invoked but in the arrow function it use the value of 'this' in their lexical scope
+// 3. Explain why "this" is different when an arrow function is used.  
+//in the function declaration 'this' associated with different values depending on the context in which the function is invoked but in the arrow function it
+//use the value of 'this' in their lexical scope
 //
